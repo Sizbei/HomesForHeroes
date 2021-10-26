@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+         Raymond I see u tryna finesse hacktoberfest 👀
         </a>
       </header>
     </div>
